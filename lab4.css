@@ -1,0 +1,18 @@
+body {
+    font-family:Arial, sans-serif;
+    text-align:center;
+    margin:0;
+    padding:0;
+    background-color: rgb(225, 190, 227);
+
+}
+
+.box{
+    border:1px solid black;
+    padding:20px;
+    margin:20px;
+}
+
+h1,h2{
+    color:rgb(69, 25, 50)
+}
